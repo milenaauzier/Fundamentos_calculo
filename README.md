@@ -1,7 +1,8 @@
-Fundamentos de Cálculo + Machine Learning
+# Fundamentos de Cálculo + Machine Learning 🚀📊
+
 Este repositório tem como objetivo compartilhar a evolução dos meus estudos em matemática e machine learning. A proposta é trazer insights e aplicações voltados para contextos econômicos e tecnológicos.
 
-Sobre o Projeto
+### Sobre o Projeto :bulb:
 Aqui, você encontrará:
 
 Anotações e explicações sobre conceitos fundamentais de cálculo.
@@ -12,7 +13,7 @@ Exemplos focados em problemas e dados econômicos e tecnológicos.
 
 Recursos para aprofundar o conhecimento e conectar teoria à prática.
 
-Objetivos
+### Objetivos :memo:
 Entender os fundamentos matemáticos que sustentam algoritmos de machine learning.
 
 Explorar casos de uso reais em economia e tecnologia.
